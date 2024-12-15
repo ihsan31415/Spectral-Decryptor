@@ -1,2 +1,2 @@
-# Spectral-analysis-using-LLM
+# Spectral-analysis-using-AI
 THIS REPO IS UNDER CONSTRUCTION
